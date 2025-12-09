@@ -63,10 +63,72 @@ project-root/
 - **R² Score**: [Score]
 - **MAE**: [Score] years
 
-### Key Insights
-- [Insight 1]
-- [Insight 2]
-- [Insight 3]
+### 🌍 Global Trends
+
+#### Global HALE Trend by Sex (2000–2019)
+![Global HALE Trend](Pics/1.png)
+
+#### Year-over-Year Change in Global HALE
+![Yearly Change](Pics/2.png)
+
+---
+
+### 📉 Distribution & Outlier Analysis
+
+#### HALE Distribution by Sex (Boxplot)
+![HALE Boxplot](Pics/3.png)
+
+#### HALE Frequency Distribution (Histogram)
+![HALE Histogram](Pics/4.png)
+
+**Outlier Detection (IQR Method):**
+- Lower Bound: 40.62  
+- Upper Bound: 82.21  
+- Outliers Detected: 115
+
+---
+
+### 🌐 Country-Level Comparisons
+
+#### Top 10 vs Bottom 10 Countries by HALE (2021)
+![Country Comparison](Pics/5.png)
+
+---
+
+### 📈 Model Performance & Feature Importance
+
+#### Model R² Scores Comparison
+![Model Scores](Pics/7.png)
+
+#### Actual vs Predicted HALE
+![Prediction Accuracy](Pics/8.png)
+
+#### Feature Importance (Random Forest)
+![Feature Importance](Pics/9.png)
+
+---
+
+### 📊 Statistical Evolution & Correlation
+
+#### HALE Distribution Evolution (2000–2019)
+![HALE Evolution](Pics/10.png)
+
+#### Confidence Interval Width Over Time
+![CI Width](Pics/11.png)
+
+#### HALE Distribution: 2000 vs 2021
+![HALE Comparison](Pics/12.png)
+
+#### Correlation Matrix
+![Correlation Heatmap](Pics/13.png)
+
+**Distribution Statistics (2021):**
+- Mean HALE: 63.81 years  
+- Median HALE: 65.71 years  
+- Std Deviation: 8.52 years  
+- Skewness: -0.297  
+- Kurtosis: -0.274
+
 
 ## 📊 Visualizations
 - HALE trends over time
