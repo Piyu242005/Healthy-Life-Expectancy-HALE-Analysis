@@ -144,8 +144,8 @@ project-root/
 
 ## 👨‍💻 Author
 **Piyush Ramteke**  
-[LinkedIn Profile]  
-[Email]
+![LinkedIn Profile](https://www.linkedin.com/in/piyu24?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[Email](piyu.143247@gmail.com)
 
 ## 📄 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
